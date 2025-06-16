@@ -1,5 +1,6 @@
 # LSD - List Directory
-Very simple oxidixed `ls` command
+
+Oxidized `ls` command
 
 ![Terminal screenshot](./screen.png)
 
